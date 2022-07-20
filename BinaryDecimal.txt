@@ -13,3 +13,8 @@ Binary to Decimal
 Multiply the every index value with base 2 by increasing Power
 then sum all index Multiplieed Value.
 
+Adding Two Binary Number 
+Convert first Binary to Decimal then 
+Add them Both First and Secod digti
+then after adding
+Convert them into Decimal to Binary.
