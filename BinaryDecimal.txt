@@ -1,0 +1,15 @@
+Decimal Number System
+Represented with base 10 by increasing Power
+
+Binary Number System
+Represented with base 2 by increasing Power
+
+Decimal to Binary
+Divide the N number from 2 until Quotient became 0 ,
+along with write Modulo % of the N number from 2 .
+then write Modulo answer from Bottom to Top.
+
+Binary to Decimal
+Multiply the every index value with base 2 by increasing Power
+then sum all index Multiplieed Value.
+
