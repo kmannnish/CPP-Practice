@@ -1,0 +1,24 @@
+Question - 
+A boy has 15 Rupees,
+    1 Rupee = 1 Chocolate and
+    3 Wrappers of Chocolate = 1 Chocolate
+How much Maximum Chocolate it can buy from Shop?
+
+Step 1 :- 
+Purchase 15 Rupees = 15 Chocolate
+
+Step 2 :-
+15 Wrappers / 3 = 5 Chocolate
+
+Step 3 :- 
+5 Wrappers / 3 = 1 Chocolate
++2 Wrappers Remaing
+
+Total Wrappers = 2 + 1 = 3
+
+Step 4 :- 
+3 Wrappers / 3 = 1 Chocolate
+
+Step 5 :- 
+15 + 5 + 1 + 1
+= 22
