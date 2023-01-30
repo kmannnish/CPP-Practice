@@ -48,7 +48,4 @@ int main(){
 	else if(flag==false){
 		cout<<"NO! It is not Palindrome"<<endl;
 	}
-	// int i=0;
-	// int n1=(str5[i]!=str5[n-1-i]);
-	// cout<<n1<<endl;
 }
